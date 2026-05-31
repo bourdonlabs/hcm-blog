@@ -1,6 +1,7 @@
 export default function ShareButtons({ url, title }) {
-  const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`
-  const twUrl = `https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(title)}`
+  const shareUrl = url || (window.location.origin + window.location.pathname)
+  const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`
+  const twUrl = `https://twitter.com/intent/tweet?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(title)}`
 
   const handleShare = (shareUrl) => {
     window.open(shareUrl, '_blank', 'width=600,height=450,noopener,noreferrer')
