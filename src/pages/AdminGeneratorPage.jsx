@@ -129,7 +129,7 @@ export default function AdminGeneratorPage() {
     setResult(null)
 
     try {
-      const resp = await fetch('/api/generate', {
+      const resp = await fetch('/gen', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
