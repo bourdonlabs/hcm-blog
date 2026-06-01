@@ -139,8 +139,6 @@ export default function AdminGeneratorPage() {
 })
 
 const data = await resp.json()
-if (!resp.ok) throw new Error(data.error || 'Generation failed')
-const data = await resp.json()
 if (!resp.ok) throw new Error(data.error?.message || 'Generation failed')
 
       let parsed
@@ -149,7 +147,7 @@ if (!resp.ok) throw new Error(data.error?.message || 'Generation failed')
         const raw = data.content.replace(/^```(?:json)?\n?/m, '').replace(/\n?```$/m, '').trim()
         parsed = JSON.parse(raw)
       } catch {
-        throw new Error('Could not parse Claude response as JSON. Raw output shown below.\n\n' + data.content[0].text)
+        throw new Error('Could not parse Claude response as JSON. Raw output shown below.\n\n' + data.content)
       }
 
       // Ensure slug exists
