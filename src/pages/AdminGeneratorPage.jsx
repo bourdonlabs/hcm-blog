@@ -129,7 +129,7 @@ export default function AdminGeneratorPage() {
     setResult(null)
 
     try {
-      const resp = await fetch('/gen', {
+      const resp = await fetch('https://small-voice-aed9hcm-blog-generator.jonathan-bourdon-kohen.workers.dev', {
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({
