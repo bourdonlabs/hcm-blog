@@ -38,6 +38,11 @@ export async function onRequest(context) {
   const url = new URL(request.url)
   const ua = request.headers.get('user-agent') || ''
 
+  // Never intercept API routes — let them reach their own function
+  if (url.pathname.startsWith('/api/')) {
+    return env.ASSETS.fetch(new Request(request.url, request))
+  }
+
   // Pass through static asset requests directly
   if (STATIC_EXT.test(url.pathname)) {
     return env.ASSETS.fetch(new Request(request.url, request))

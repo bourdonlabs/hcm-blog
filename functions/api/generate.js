@@ -17,7 +17,11 @@ export async function onRequest(context) {
 
   const apiKey = env.ANTHROPIC_API_KEY
   if (!apiKey) {
-    return new Response(JSON.stringify({ error: 'ANTHROPIC_API_KEY not configured' }), {
+    const availableKeys = Object.keys(env || {}).join(', ') || '(none)'
+    return new Response(JSON.stringify({
+      error: 'ANTHROPIC_API_KEY not configured',
+      availableEnvKeys: availableKeys,
+    }), {
       status: 500,
       headers: { 'Content-Type': 'application/json' },
     })
