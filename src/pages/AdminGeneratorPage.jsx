@@ -129,29 +129,24 @@ export default function AdminGeneratorPage() {
     setResult(null)
 
     try {
-      const resp = await fetch('https://api.anthropic.com/v1/messages', {
+      const resp = await fetch('/gen', {
   method: 'POST',
-  headers: {
-    'Content-Type': 'application/json',
-    'x-api-key': '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',
-    'anthropic-version': '2023-06-01',
-    'anthropic-dangerous-direct-browser-access': 'true',
-  },
+  headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({
-    model: 'claude-sonnet-4-6-20250514',
-    max_tokens: 4096,
-    system: buildSystemPrompt(MTL_STYLE_GUIDE),
-    messages: [{ role: 'user', content: buildUserPrompt(form.category, form.topic, form.keyFacts, form.angle) }],
+    systemPrompt: buildSystemPrompt(MTL_STYLE_GUIDE),
+    userPrompt: buildUserPrompt(form.category, form.topic, form.keyFacts, form.angle),
   }),
 })
 
+const data = await resp.json()
+if (!resp.ok) throw new Error(data.error || 'Generation failed')
 const data = await resp.json()
 if (!resp.ok) throw new Error(data.error?.message || 'Generation failed')
 
       let parsed
       try {
         // Claude sometimes wraps in code fences — strip them
-        const raw = data.content[0].text.replace(/^```(?:json)?\n?/m, '').replace(/\n?```$/m, '').trim()
+        const raw = data.content.replace(/^```(?:json)?\n?/m, '').replace(/\n?```$/m, '').trim()
         parsed = JSON.parse(raw)
       } catch {
         throw new Error('Could not parse Claude response as JSON. Raw output shown below.\n\n' + data.content[0].text)
