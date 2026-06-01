@@ -6,6 +6,7 @@ import SearchPage from './pages/SearchPage.jsx'
 import AboutPage from './pages/AboutPage.jsx'
 import AdvertisePage from './pages/AdvertisePage.jsx'
 import SubmitTipPage from './pages/SubmitTipPage.jsx'
+import AdminGeneratorPage from './pages/AdminGeneratorPage.jsx'
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
       <Route path="/about" element={<AboutPage />} />
       <Route path="/advertise" element={<AdvertisePage />} />
       <Route path="/submit-tip" element={<SubmitTipPage />} />
+      <Route path="/admin/generator" element={<AdminGeneratorPage />} />
       <Route path="/:slug" element={<ArticlePage />} />
     </Routes>
   )
