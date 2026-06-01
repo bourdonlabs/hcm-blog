@@ -133,13 +133,15 @@ export default function AdminGeneratorPage() {
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({
-    systemPrompt: buildSystemPrompt(MTL_STYLE_GUIDE),
-    userPrompt: buildUserPrompt(form.category, form.topic, form.keyFacts, form.angle),
+    category: form.category,
+    topic: form.topic,
+    keyFacts: form.keyFacts,
+    angle: form.angle,
   }),
 })
 
 const data = await resp.json()
-if (!resp.ok) throw new Error(data.error?.message || 'Generation failed')
+if (!resp.ok) throw new Error(data.error || 'Generation failed')
 
       let parsed
       try {
