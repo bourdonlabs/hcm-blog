@@ -8,7 +8,7 @@ authorBio: "A Saigon native who has spent over a decade documenting the city's e
 date: "2026-06-02"
 category: "News"
 tags: ["tan-son-nhat", "immigration", "travel-update", "expats"]
-heroImage: "https://www.travelandtourworld.com/wp-content/uploads/2026/04/air-11.jpg"
+heroImage: "https://hcmcblog.com/images/tansonnhat-cover.png"
 readTime: "3 min read"
 slug: "vietnam-pre-arrival-declarations-tan-son-nhat-2026"
 ---
@@ -27,6 +27,8 @@ The system is designed to cut down queues at immigration, which sounds great in 
 
 Tan Son Nhat handles over 100 million passengers annually, and the airport has been visibly bursting at the seams during peak season. This digital-first approach is Vietnam's attempt to modernize its arrival infrastructure without actually building a new terminal (that's still in the works, perpetually). For expats and regular visitors, it's just another step in the arrival dance—one you can't skip.
 
+![Pre-arrival declaration official notice](/images/arrival-declaration-notice.png "Official notice from Government website news | @hcmblog | https://www.facebook.com/profile.php?id=100093419216024")
+
 ## What If You Mess It Up?
 
 If you arrive without completing the declaration, immigration will likely have you fill it out on-site anyway, which defeats the entire purpose. The system is still relatively new, so there's grace built in, but don't test it. Get it done before you land, grab your luggage, and head straight to Thao Dien or wherever you're headed.
@@ -34,3 +36,5 @@ If you arrive without completing the declaration, immigration will likely have y
 ## The Bottom Line
 
 It's a reasonable modernization of an outdated process, even if it's yet another bureaucratic hoop to jump through. The good news: once you're through immigration, you're free to hit up the coffee shops on Bui Vien and start living your best Saigon life. The form is just the price of entry.
+
+![Pre-arrival declaration official notice 2](/images/arrival-declaration-notice-2.png "Official notice from Government website news | @hcmblog | https://www.facebook.com/profile.php?id=100093419216024")
