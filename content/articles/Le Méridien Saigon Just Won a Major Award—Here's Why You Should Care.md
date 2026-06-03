@@ -8,7 +8,7 @@ authorBio: "A Saigon native who has spent over a decade documenting the city's e
 date: "2026-06-02"
 category: "Eat & Drink"
 tags: ["luxury hotels", "saigon dining", "hospitality awards", "district 1"]
-heroImage: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&h=630&fit=crop"
+heroImage: "/images/SUB____11_.png"
 readTime: "4 min read"
 slug: "le-meridien-saigon-award-2026"
 ---
