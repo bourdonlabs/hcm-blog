@@ -8,7 +8,7 @@ authorBio: "A Saigon native who has spent over a decade documenting the city's e
 date: "2026-06-03"
 category: "News"
 tags: ["Ho Chi Minh City", "Italy", "International Relations", "Business", "Culture"]
-heroImage: "/images/Screenshot 2026-06-03 194320.png"
+heroImage: "/images/saigon-italy-cover.png"
 readTime: "4 min read"
 slug: "saigon-italy-cooperation-2026"
 ---
