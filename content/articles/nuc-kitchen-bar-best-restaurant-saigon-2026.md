@@ -41,7 +41,7 @@ Let's be real: Saigon's restaurant hours can be chaotic. NÚC has figured out th
 
 Expect to drop somewhere in the 250,000–600,000 VND range (~$10–24 USD) for a full meal, depending on your choices. That's fair pricing for Saigon's upper-tier dining—you're not subsidizing Instagram aesthetics or paying for a name. You're paying for ingredient quality, technical execution, and service that understands hospitality.
 
-![NÚC Kitchen and Bar menu — June 2026](/images/menu NUC.png "Menu as of June 2026 | @nuckitchenandbar | https://www.instagram.com/nuckitchenandbar/")
+![NÚC Kitchen and Bar menu — June 2026](/images/menu-nuc.png "Menu as of June 2026 | @nuckitchenandbar | https://www.instagram.com/nuckitchenandbar/")
 
 ## The Real Test
 
@@ -59,7 +59,7 @@ Here's the thing about "best restaurant" conversations: they're subjective and g
 
 If you're in District 1 already—whether you're coming from Ben Thanh Market, walking along Dong Khoi, or heading to the riverside—NÚC is accessible and easy to find. Public transportation works fine, but Grab is your fastest option if you're time-sensitive. Fair warning: weekends can get busy, and they don't take reservations online yet, so either call ahead or arrive during shoulder hours if you're bringing a group.
 
-![NÚC Kitchen and Bar location map](/images/map NUC.png "NÚC is located in District 1, Ho Chi Minh City | @nuckitchenandbar | https://www.instagram.com/nuckitchenandbar/")
+![NÚC Kitchen and Bar location map](/images/map-nuc.png "NÚC is located in District 1, Ho Chi Minh City | @nuckitchenandbar | https://www.instagram.com/nuckitchenandbar/")
 
 ## Why This Matters Right Now
 
