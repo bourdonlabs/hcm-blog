@@ -31,4 +31,10 @@ The warning system addresses a gap that existed before: drivers had no real-time
 
 If you cross this bridge regularly—whether heading to work in District 1, toward Thu Duc City, or anywhere in between—you'll start hearing these warnings during monsoons. The system broadcasts in Vietnamese, so local commuters get the most direct benefit. Expats driving through should recognize the urgency in the audio tone and slow down accordingly.
 
-The real genius here is simplicity. No app required, no GPS dependency. Just clear, immediate warnings delivered right when you need them. In a city where real-time traffic apps are notoriously unreliable during peak weather, a loudspe
+The real genius here is simplicity. No app required, no GPS dependency. Just clear, immediate warnings delivered right when you need them. In a city where real-time traffic apps are notoriously unreliable during peak weather, a loudspeaker system is refreshingly direct.
+
+## The Bigger Picture
+
+This upgrade is part of a broader push to modernize Saigon's infrastructure, especially around traffic safety. It's the kind of investment that doesn't make headlines next to new luxury cafes or trendy restaurants, but it's arguably more important. Every commute you make safely is a win, and every accident prevented is worth far more than any F&B venue opening.
+
+If you're planning your route during the upcoming monsoon season, keep an ear out. When those loudspeakers activate, they're doing their job—and you should listen.
