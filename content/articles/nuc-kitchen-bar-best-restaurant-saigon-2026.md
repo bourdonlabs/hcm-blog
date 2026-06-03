@@ -47,14 +47,13 @@ Expect to drop somewhere in the 250,000–600,000 VND range (~$10–24 USD) for 
 
 Here's the thing about "best restaurant" conversations: they're subjective and generational. But NÚC isn't winning because it's trendy (though it definitely is). It's winning because it executes across every dimension consistently—food, service, space, philosophy, accessibility. That's rare.
 
-> **INFO BOX**
-> **Address:** District 1, Ho Chi Minh City (contact for exact location details)
-> **Phone:** (+84) 82 841 1010
-> **Hours:** Mon 6:30 AM–2 PM | Tue–Sun 6:30 AM–11 PM
-> **Price Range:** 250,000–600,000 VND (~$10–24 USD) per person
-> **Best for:** All-day brunch, contemporary dining, conscious gastronomy, solo dining, dates, business meals
-> **Website:** [nucsaigon.vn](https://www.nucsaigon.vn/)
-> **Instagram:** [@nuckitchenandbar](https://www.instagram.com/nuckitchenandbar/)
+**Address:** District 1, Ho Chi Minh City (contact for exact location details)  
+**Phone:** (+84) 82 841 1010  
+**Hours:** Mon 6:30 AM–2 PM | Tue–Sun 6:30 AM–11 PM  
+**Price Range:** 250,000–600,000 VND (~$10–24 USD) per person  
+**Best for:** All-day brunch, contemporary dining, conscious gastronomy, solo dining, dates, business meals  
+**Website:** [nucsaigon.vn](https://www.nucsaigon.vn/)  
+**Instagram:** [@nuckitchenandbar](https://www.instagram.com/nuckitchenandbar/)
 
 ## Getting There
 
