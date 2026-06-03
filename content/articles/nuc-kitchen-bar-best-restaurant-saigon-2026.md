@@ -11,6 +11,13 @@ tags: ["restaurant", "brunch", "district-1", "dining", "saigon-food"]
 heroImage: "/images/667611301_892793473715501_6111336866923312548_n.jpg"
 readTime: "5 min read"
 slug: "nuc-kitchen-bar-best-restaurant-saigon-2026"
+phone: "(+84) 82 841 1010"
+hours: "Mon 6:30 AM–2 PM | Tue–Sun 6:30 AM–11 PM"
+price: "250,000–600,000 VND (~$10–24 USD) per person"
+bestFor: "All-day brunch, contemporary dining, conscious gastronomy, solo dining, dates, business meals"
+website: "https://www.nucsaigon.vn/"
+instagram: "https://www.instagram.com/nuckitchenandbar/"
+address: "District 1, Ho Chi Minh City"
 ---
 
 If you've been sleeping on NÚC Kitchen and Bar, it's time to wake up—because this is the restaurant everyone in Saigon is talking about right now. Tucked into District 1's vibrant dining corridor, it's not just earned a reputation as the best in the city; it's fundamentally shifted how we think about contemporary all-day brunch and conscious gastronomy in HCMC.
@@ -46,14 +53,6 @@ Expect to drop somewhere in the 250,000–600,000 VND range (~$10–24 USD) for 
 ## The Real Test
 
 Here's the thing about "best restaurant" conversations: they're subjective and generational. But NÚC isn't winning because it's trendy (though it definitely is). It's winning because it executes across every dimension consistently—food, service, space, philosophy, accessibility. That's rare.
-
-**Address:** District 1, Ho Chi Minh City (contact for exact location details)  
-**Phone:** (+84) 82 841 1010  
-**Hours:** Mon 6:30 AM–2 PM | Tue–Sun 6:30 AM–11 PM  
-**Price Range:** 250,000–600,000 VND (~$10–24 USD) per person  
-**Best for:** All-day brunch, contemporary dining, conscious gastronomy, solo dining, dates, business meals  
-**Website:** [nucsaigon.vn](https://www.nucsaigon.vn/)  
-**Instagram:** [@nuckitchenandbar](https://www.instagram.com/nuckitchenandbar/)
 
 ## Getting There
 

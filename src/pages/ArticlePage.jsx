@@ -234,6 +234,11 @@ const processedContent = (article.content || '')
             cuisine={article.cuisine}
             address={article.address}
             whyGoThere={article.whyGoThere}
+            phone={article.phone}
+            hours={article.hours}
+            bestFor={article.bestFor}
+            website={article.website}
+            instagram={article.instagram}
           />
 
           {/* Tags */}
