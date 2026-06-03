@@ -8,7 +8,7 @@ authorBio: "A Saigon native who has spent over a decade documenting the city's e
 date: "2026-06-02"
 category: "Eat & Drink"
 tags: ["restaurant", "brunch", "district-1", "dining", "saigon-food"]
-heroImage: "/images/667611301_892793473715501_6111336866923312548_n.jpg"
+heroImage: "https://hcmcblog.com/images/667611301_892793473715501_6111336866923312548_n.jpg"
 readTime: "5 min read"
 slug: "nuc-kitchen-bar-best-restaurant-saigon-2026"
 phone: "(+84) 82 841 1010"
