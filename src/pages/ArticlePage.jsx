@@ -216,8 +216,7 @@ const processedContent = (article.content || '')
                 src={article.heroImage}
                 alt={article.title}
                 loading="eager"
-                className="w-full object-cover"
-                style={{ maxHeight: '500px' }}
+                className="w-full object-contain"
               />
             </div>
           )}
