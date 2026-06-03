@@ -23,7 +23,7 @@ The program dives into foundational American stories: the Revolution, the Consti
 
 Participants are getting hands-on with discussions about independence movements, democratic principles, and how American culture has influenced (and been influenced by) the rest of the world. Given that we're sitting in Ho Chi Minh City, a place with its own complicated relationship to independence and nation-building, these conversations hit different.
 
-![Participants take part in the three-day Summer Camp program launched by the U.S. Consulate General in Ho Chi Minh City on June 1, 2026, as part of activities marking the 250th anniversary of U.S. Independence Day (July 4, 1776-2026). Photo: Thanh Hiep / Tuoi Tre](https://cdn2.tuoitre.vn/thumb_w/750/471584752817336320/2026/6/2/base64-1780320712286893735783-1780389777405441026848-27-0-715-1100-crop-17803897831541507155743.jpg)
+![Participants take part in the three-day Summer Camp program launched by the U.S. Consulate General in Ho Chi Minh City on June 1, 2026, as part of activities marking the 250th anniversary of U.S. Independence Day (July 4, 1776-2026). Photo: Thanh Hiep / Tuoi Tre](https://cdn2.tuoitre.vn/thumb_w/750/471584752817336320/2026/6/2/base64-1780320712286893735783-1780389777405441026848-27-0-715-1100-crop-17803897831541507155743.jpg "Participants take part in the three-day Summer Camp, June 1, 2026 | @tuoitrenews | https://tuoitre.vn/")
 
 ## Who Should Actually Go
 
@@ -38,8 +38,6 @@ The U.S. Consulate has been quietly building these kinds of programs for years, 
 What makes this particular program interesting is how it reframes American history not as propaganda, but as a conversation. In a city like Saigon where we're used to navigating multiple cultural narratives, that approach actually resonates.
 
 ![U.S. Consul General Melissa A. Brown](https://images2.thanhnien.vn/528068263637045248/2026/1/27/55063659193f50be65b91k-17695209792851353881931.jpg "U.S. Consul General in Ho Chi Minh City Melissa A. Brown | @tuoitrenews | https://tuoitre.vn/")
-
-*Participants take part in the three-day Summer Camp program launched by the U.S. Consulate General in Ho Chi Minh City on June 1, 2026, as part of activities marking the 250th anniversary of U.S. Independence Day (July 4, 1776-2026). Photo: Thanh Hiep / Tuoi Tre*
 
 > **INFO BOX**
 > **Organizer:** U.S. Consulate General in Ho Chi Minh City
