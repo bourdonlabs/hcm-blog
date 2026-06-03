@@ -1,4 +1,14 @@
 {
+  "us-consulate-250-years-american-history-summer-camp-hcmc": {
+    "title": "The U.S. Consulate Just Launched a Summer Camp Exploring 250 Years of American History—And It's Happening Right Here in Saigon",
+    "subtitle": "A three-day deep dive into U.S. Independence, culture, and identity—perfect for expats, locals, and anyone curious about what's actually going on across the Pacific.",
+    "heroImage": "https://cdn2.tuoitre.vn/thumb_w/750/471584752817336320/2026/6/2/base64-1780320712286893735783-1780389777405441026848-27-0-715-1100-crop-17803897831541507155743.jpg"
+  },
+  "saigon-bridge-warning-system-safety-upgrade": {
+    "title": "Saigon's Busiest Bridge Just Got a Serious Safety Upgrade—And You Should Know About It",
+    "subtitle": "New warning system on a major crossing means commuters can finally breathe easier during monsoon season.",
+    "heroImage": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=600&fit=crop"
+  },
   "best-pho-spots-district-1": {
     "title": "The 9 Best Pho Spots in District 1 That Every Saigonese Knows",
     "subtitle": "From hole-in-the-wall gems to legendary family recipes passed down for decades.",
@@ -14,19 +24,49 @@
     "subtitle": "Visas, neighborhoods, cost of living, and everything nobody tells you before you land.",
     "heroImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=1245&h=700&fit=crop&q=80"
   },
+  "vietnam-pre-arrival-declarations-tan-son-nhat-2026": {
+    "title": "Vietnam Just Made Arrivals at Tan Son Nhat Easier (Sort Of)",
+    "subtitle": "Foreigners now need to fill out pre-arrival declarations online—here's what you actually need to know",
+    "heroImage": "https://www.travelandtourworld.com/wp-content/uploads/2026/04/air-11.jpg"
+  },
+  "hcmc-green-vehicle-plan-2026": {
+    "title": "Ho Chi Minh City Just Unveiled Its Biggest Green Vehicle Plan Yet—Here's What Changes for You",
+    "subtitle": "The city is pushing hard to ditch gas-powered bikes and cars. New incentives and a phased roadmap could reshape Saigon's notoriously polluted streets.",
+    "heroImage": "https://file3.qdnd.vn/data/images/3/2025/05/10/upload_2059/green%20bus.jpg?dpi=150&quality=100&w=500"
+  },
+  "le-meridien-saigon-award-2026": {
+    "title": "Le Méridien Saigon Just Won a Major Award—Here's Why You Should Care",
+    "subtitle": "The luxury hotel's first-half 2026 recognition signals a shift in how Saigon's hospitality scene is evolving.",
+    "heroImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&h=630&fit=crop"
+  },
   "metro-line-1-hcmc-guide": {
     "title": "HCMC's Metro Line 1 Is Finally Open — Here's Everything You Need To Know",
     "subtitle": "After 17 years of construction, Saigon's first metro is running. We rode it so you don't have to guess.",
     "heroImage": "https://vcdn1-english.vnecdn.net/2024/12/22/8404cce862c0df9e86d1-173484002-6220-7570-1734840609.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=UBBPlVvQX17hoyoKbOxGgg"
+  },
+  "nuc-kitchen-bar-best-restaurant-saigon-2026": {
+    "title": "NÚC Kitchen and Bar Is Saigon's Best Restaurant Right Now—Here's Why",
+    "subtitle": "Contemporary brunch meets conscious gastronomy in District 1's most talked-about dining destination",
+    "heroImage": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=1200&h=630&fit=crop"
   },
   "saigon-real-estate-guide-2024": {
     "title": "Saigon Real Estate 2024: Should You Buy or Rent in HCMC Right Now?",
     "subtitle": "Prices are up, supply is tight, and foreigners still face restrictions. Here's what you actually need to know.",
     "heroImage": "https://vcdn1-english.vnecdn.net/2024/10/03/Aduansaigonsportscity-17279211-2897-5724-1727921163.jpg?w=500&h=300&q=100&dpr=2&fit=crop&s=jJXFa5BUnLgPiUts34DSSg"
   },
+  "silicon-valley-coming-to-saigon-startup-hub": {
+    "title": "Silicon Valley Is Making Moves in Saigon—Here's What It Means for the City",
+    "subtitle": "Ho Chi Minh City is courting tech giants to transform itself into Southeast Asia's next startup hub. And honestly? It might actually work.",
+    "heroImage": "https://image.vietnamnews.vn/uploadvnnews/Article/2026/5/28/506169_sihub.jpg"
+  },
   "things-to-do-this-weekend-hcmc": {
     "title": "13 Things To Do in Ho Chi Minh City This Weekend",
     "subtitle": "Street food tours, art galleries, motorbike adventures — your weekend in Saigon sorted.",
     "heroImage": "https://i.ytimg.com/vi/H4mU__VXu9I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQAjCsfH6HeJWSPVOc01hyNq8Vxg"
+  },
+  "vietnam-tourist-conduct-crackdown-expats": {
+    "title": "Vietnam's New Tourist Code: What Expats Need to Know About Conduct Crackdowns",
+    "subtitle": "As Saigon tightens rules on visitor behavior, here's why it matters—and what might change for you.",
+    "heroImage": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/06/01/21679111-f690-45f9-8808-4c09dda6ac5e_b537fc6a.jpg?itok=NOl5e0gN&v=1780319505"
   }
 }

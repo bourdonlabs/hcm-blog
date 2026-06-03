@@ -1,7 +1,7 @@
 import { useParams, Link, Navigate } from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
 import { marked } from 'marked'
-import { useRef } from 'react'
+import { useRef, useEffect } from 'react'
 import Navbar from '../components/Navbar.jsx'
 import Footer from '../components/Footer.jsx'
 import ShareButtons from '../components/ShareButtons.jsx'
@@ -16,8 +16,29 @@ import {
   allArticles,
 } from '../utils/contentLoader.js'
 
-// Configure marked
+// Custom renderer: images with optional "caption | @handle | url" title become <figure>
+const renderer = new marked.Renderer()
+renderer.image = ({ href, title, text }) => {
+  const imgTag = `<img src="${href}" alt="${text}" loading="lazy" />`
+  if (!title) return `<figure>${imgTag}</figure>`
+  const parts = title.split('|').map(s => s.trim())
+  const caption = parts[0] || ''
+  const handle  = parts[1] || ''
+  const link    = parts[2] || ''
+  let credit = ''
+  if (handle && link) {
+    credit = ` <a href="${link}" target="_blank" rel="noopener noreferrer">${handle}</a>`
+  } else if (handle) {
+    credit = ` ${handle}`
+  }
+  const figcaptionContent = caption
+    ? `${caption}${credit ? ' —' + credit : ''}`
+    : credit.trim()
+  return `<figure>${imgTag}${figcaptionContent ? `<figcaption>${figcaptionContent}</figcaption>` : ''}</figure>`
+}
+
 marked.setOptions({ breaks: true, gfm: true })
+marked.use({ renderer })
 
 function RelatedRow({ articles }) {
   const scrollRef = useRef(null)
@@ -87,7 +108,27 @@ export default function ArticlePage() {
   const currentUrl = typeof window !== 'undefined'
     ? window.location.origin + window.location.pathname
     : `https://hcmblog.com/${article.slug}`
-  const htmlContent = marked.parse(article.content || '')
+
+  // Pre-process Instagram shortcodes before markdown parsing
+  const processedContent = (article.content || '').replace(
+    /\{\{instagram:\s*(https?:\/\/www\.instagram\.com\/p\/[^\s}]+)\s*\}\}/g,
+    (_, url) =>
+      `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="background:#FFF;border:0;border-radius:3px;box-shadow:0 0 1px 0 rgba(0,0,0,.5),0 1px 10px 0 rgba(0,0,0,.15);margin:1px;max-width:540px;min-width:326px;padding:0;width:calc(100% - 2px);"></blockquote>`
+  )
+  const htmlContent = marked.parse(processedContent)
+
+  // Load Instagram embed script once per article render
+  useEffect(() => {
+    if (!htmlContent.includes('instagram-media')) return
+    if (window.instgrm) {
+      window.instgrm.Embeds.process()
+    } else {
+      const script = document.createElement('script')
+      script.src = 'https://www.instagram.com/embed.js'
+      script.async = true
+      document.body.appendChild(script)
+    }
+  }, [htmlContent])
 
   return (
     <div className="min-h-screen bg-white">

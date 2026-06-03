@@ -125,7 +125,34 @@
 .prose img {
   max-width: 100%;
   border-radius: 0.5rem;
+  margin: 0;
+}
+
+.prose figure {
   margin: 1.5rem 0;
+}
+
+.prose figcaption {
+  font-size: 0.78rem;
+  color: #9ca3af;
+  font-style: italic;
+  margin-top: 0.35rem;
+  padding: 0 0.25rem;
+}
+
+.prose figcaption a {
+  color: #9ca3af;
+  text-decoration: underline;
+}
+
+.prose figcaption a:hover {
+  color: #d4213d;
+}
+
+.prose .instagram-media {
+  display: block;
+  max-width: 540px;
+  margin: 1.5rem auto;
 }
 
 .prose iframe {

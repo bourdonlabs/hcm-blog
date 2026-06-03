@@ -8,7 +8,7 @@ authorBio: "A Saigon native who has spent over a decade documenting the city's e
 date: "2026-06-02"
 category: "Eat & Drink"
 tags: ["restaurant", "brunch", "district-1", "dining", "saigon-food"]
-heroImage: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=1200&h=630&fit=crop"
+heroImage: "/images/667611301_892793473715501_6111336866923312548_n.jpg"
 readTime: "5 min read"
 slug: "nuc-kitchen-bar-best-restaurant-saigon-2026"
 ---
@@ -21,6 +21,8 @@ Walk in any morning and you'll immediately feel the difference. The space is cle
 
 The crowd here is interesting: you'll spot digital nomads working on laptops alongside local families, foreign expats catching up over cocktails, and serious food nerds who understand that hospitality is as much about the experience as it is about the plate. Nobody feels out of place, which is increasingly rare in Saigon's restaurant scene.
 
+{{instagram: https://www.instagram.com/p/DUgB3oCk0fg/?img_index=4}}
+
 ## The Food: Gastronomy with Nature in Mind
 
 What makes NÚC actually different—not just Instagram-different, but *actually* different—is their philosophy around ingredients and preparation. Every dish is built with sustainability and quality at the core. You can taste it immediately. The sourcing is transparent, seasonal, and they're not afraid to build their menu around what's genuinely good right now, rather than what photographs best.
@@ -29,6 +31,8 @@ Their brunch offerings are revelatory. We're not talking about pretty toast with
 
 Dinner leans into contemporary cuisine with clear technical skill but zero pretension. Dishes feel both refined and approachable—the kind of cooking that makes you want to come back because you're genuinely curious what's next, not because you're checking a box.
 
+{{instagram: https://www.instagram.com/p/DX9HuQ1GOSx/?img_index=3}}
+
 ## The Hours That Actually Work for Saigon Life
 
 Let's be real: Saigon's restaurant hours can be chaotic. NÚC has figured out the sweet spot. They open at 6:30 AM Monday through Sunday (closing at 2 PM on Mondays, then 11 PM Tuesday through Sunday), which means you can grab coffee and breakfast before work, bring clients for lunch, date night dinner, or late drinks on a Friday without awkward timing. It's a small detail that signals they actually understand how people live here.
@@ -36,6 +40,8 @@ Let's be real: Saigon's restaurant hours can be chaotic. NÚC has figured out th
 ## Price Point: You're Getting What You Pay For
 
 Expect to drop somewhere in the 250,000–600,000 VND range (~$10–24 USD) for a full meal, depending on your choices. That's fair pricing for Saigon's upper-tier dining—you're not subsidizing Instagram aesthetics or paying for a name. You're paying for ingredient quality, technical execution, and service that understands hospitality.
+
+![NÚC Kitchen and Bar menu — June 2026](/images/menu NUC.png "Menu as of June 2026 | @nuckitchenandbar | https://www.instagram.com/nuckitchenandbar/")
 
 ## The Real Test
 
@@ -53,6 +59,8 @@ Here's the thing about "best restaurant" conversations: they're subjective and g
 ## Getting There
 
 If you're in District 1 already—whether you're coming from Ben Thanh Market, walking along Dong Khoi, or heading to the riverside—NÚC is accessible and easy to find. Public transportation works fine, but Grab is your fastest option if you're time-sensitive. Fair warning: weekends can get busy, and they don't take reservations online yet, so either call ahead or arrive during shoulder hours if you're bringing a group.
+
+![NÚC Kitchen and Bar location map](/images/map NUC.png "NÚC is located in District 1, Ho Chi Minh City | @nuckitchenandbar | https://www.instagram.com/nuckitchenandbar/")
 
 ## Why This Matters Right Now
 
