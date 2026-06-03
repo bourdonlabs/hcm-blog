@@ -31,7 +31,7 @@ for (const file of readdirSync(articlesDir)) {
   manifest[slug] = {
     title: data.title || '',
     subtitle: data.subtitle || '',
-    heroImage: data.heroImage || '',
+    heroImage: data.ogImage || data.heroImage || '',
   }
 }
 
