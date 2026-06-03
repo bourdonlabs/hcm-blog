@@ -18,23 +18,22 @@ import {
 
 // Custom renderer: images with optional "caption | @handle | url" title become <figure>
 const renderer = new marked.Renderer()
-renderer.image = ({ href, title, text }) => {
-  const imgTag = `<img src="${href}" alt="${text}" loading="lazy" />`
-  if (!title) return `<figure>${imgTag}</figure>`
+renderer.image = (token) => {
+  const src = token.href || token.src || ''
+  const alt = token.text || token.alt || ''
+  const title = token.title || ''
+  if (!title) {
+    return `<figure><img src="${src}" alt="${alt}" style="max-width:100%;border-radius:0.5rem;margin:0;" /></figure>`
+  }
   const parts = title.split('|').map(s => s.trim())
   const caption = parts[0] || ''
-  const handle  = parts[1] || ''
-  const link    = parts[2] || ''
-  let credit = ''
-  if (handle && link) {
-    credit = ` <a href="${link}" target="_blank" rel="noopener noreferrer">${handle}</a>`
-  } else if (handle) {
-    credit = ` ${handle}`
-  }
-  const figcaptionContent = caption
-    ? `${caption}${credit ? ' —' + credit : ''}`
-    : credit.trim()
-  return `<figure>${imgTag}${figcaptionContent ? `<figcaption>${figcaptionContent}</figcaption>` : ''}</figure>`
+  const handle = parts[1] || ''
+  const link = parts[2] || ''
+  const handleHtml = handle && link
+    ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${handle}</a>`
+    : handle || ''
+  const sep = caption && handleHtml ? ' | ' : ''
+  return `<figure><img src="${src}" alt="${alt}" style="max-width:100%;border-radius:0.5rem;margin:0;" /><figcaption>${caption}${sep}${handleHtml}</figcaption></figure>`
 }
 
 marked.setOptions({ breaks: true, gfm: true })
