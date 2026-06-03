@@ -8,7 +8,7 @@ authorBio: "A Saigon native who has spent over a decade documenting the city's e
 date: "2026-06-02"
 category: "News"
 tags: ["saigon-infrastructure", "safety-news", "commute-tips", "ho-chi-minh-city"]
-heroImage: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=600&fit=crop"
+heroImage: "https://hcmcblog.com/images/cover_bridge_saigon_bad_weatherr.png"
 readTime: "3 min read"
 slug: "saigon-bridge-warning-system-safety-upgrade"
 ---
@@ -25,14 +25,10 @@ Saigon's monsoon season is no joke. Between May and September, weather can turn 
 
 The warning system addresses a gap that existed before: drivers had no real-time alert about dangerous conditions ahead. You'd be cruising, hit a wall of rain, and suddenly realize too late that visibility is dangerous. Now, the loudspeakers warn you before you're in the thick of it.
 
+![Saigon monsoon rain](/images/moonsoon.jpg "Monsoon season in Ho Chi Minh City | @hcmblog | https://www.facebook.com/profile.php?id=100093419216024")
+
 ## What This Means for Your Commute
 
 If you cross this bridge regularly—whether heading to work in District 1, toward Thu Duc City, or anywhere in between—you'll start hearing these warnings during monsoons. The system broadcasts in Vietnamese, so local commuters get the most direct benefit. Expats driving through should recognize the urgency in the audio tone and slow down accordingly.
 
-The real genius here is simplicity. No app required, no GPS dependency. Just clear, immediate warnings delivered right when you need them. In a city where real-time traffic apps are notoriously unreliable during peak weather, a loudspeaker system is refreshingly direct.
-
-## The Bigger Picture
-
-This upgrade is part of a broader push to modernize Saigon's infrastructure, especially around traffic safety. It's the kind of investment that doesn't make headlines next to new luxury cafes or trendy restaurants, but it's arguably more important. Every commute you make safely is a win, and every accident prevented is worth far more than any F&B venue opening.
-
-If you're planning your route during the upcoming monsoon season, keep an ear out. When those loudspeakers activate, they're doing their job—and you should listen.
+The real genius here is simplicity. No app required, no GPS dependency. Just clear, immediate warnings delivered right when you need them. In a city where real-time traffic apps are notoriously unreliable during peak weather, a loudspe
