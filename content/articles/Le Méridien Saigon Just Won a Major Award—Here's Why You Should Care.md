@@ -9,6 +9,7 @@ date: "2026-06-02"
 category: "Eat & Drink"
 tags: ["luxury hotels", "saigon dining", "hospitality awards", "district 1"]
 heroImage: "/images/SUB____11_.png"
+ogImage: "/images/SUB____11_-og.png"
 readTime: "4 min read"
 slug: "le-meridien-saigon-award-2026"
 ---
