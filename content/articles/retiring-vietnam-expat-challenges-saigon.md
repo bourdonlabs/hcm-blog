@@ -6,7 +6,7 @@ authorRole: "Managing Editor, Vietnam"
 authorAvatar: "/authors/linh-nguyen.jpg"
 authorBio: "A Saigon native who has spent over a decade documenting the city's ever-changing food and culture scene."
 date: "2026-06-03"
-category: "News"
+category: "Guides"
 tags: ["retirement", "expat-life", "visa-immigration", "saigon-living", "vietnam-expats"]
 heroImage: "https://media.vov.vn/sites/default/files/styles/large/public/2022-07/av%20b2ap3_large_du-lich-tuoi-nghi-huu.jpg"
 readTime: "6 min read"
