@@ -36,8 +36,8 @@ renderer.image = (token) => {
   return `<figure><img src="${src}" alt="${alt}" style="max-width:100%;border-radius:0.5rem;margin:0;" /><figcaption>${caption}${sep}${handleHtml}</figcaption></figure>`
 }
 
-marked.setOptions({ breaks: true, gfm: true, renderer })
-
+marked.setOptions({ breaks: true, gfm: true })
+marked.use({ renderer })
 function RelatedRow({ articles }) {
   const scrollRef = useRef(null)
   const scroll = (dir) => {
