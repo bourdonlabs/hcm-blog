@@ -13,6 +13,8 @@ readTime: "4 min read"
 slug: "us-consulate-250-years-american-history-summer-camp-hcmc"
 ---
 
+*Participants take part in the three-day Summer Camp program launched by the U.S. Consulate General in Ho Chi Minh City on June 1, 2026, as part of activities marking the 250th anniversary of U.S. Independence Day (July 4, 1776-2026). Photo: Thanh Hiep / Tuoi Tre*
+
 If you've been wondering what the U.S. Consulate General in District 1 has been cooking up lately, wonder no more. Starting June 1, they launched a three-day Summer Camp that's basically a masterclass in 250 years of American independence, culture, and identity. It's the kind of thing that sounds educational on paper but actually feels like hanging out with people who actually care about where they come from.
 
 The camp isn't your typical stuffy history lecture situation. Instead, it's designed for a mix of expats, Vietnamese students, and locals who are genuinely curious about American history beyond what they've scrolled past on social media. The timing? Perfect—it's all part of the 250th anniversary of July 4, 1776, so there's real momentum behind it.
@@ -36,6 +38,8 @@ Locals who speak English and have been thinking about American culture beyond th
 The U.S. Consulate has been quietly building these kinds of programs for years, but the 250th anniversary celebration gives them extra weight. This summer camp is just one of several initiatives happening around July 4—think cultural exchanges, film screenings, community talks, and the kind of low-key celebrations that happen in Districts 1 and 3 every year.
 
 What makes this particular program interesting is how it reframes American history not as propaganda, but as a conversation. In a city like Saigon where we're used to navigating multiple cultural narratives, that approach actually resonates.
+
+![U.S. Consul General Melissa A. Brown](https://images2.thanhnien.vn/528068263637045248/2026/1/27/55063659193f50be65b91k-17695209792851353881931.jpg "U.S. Consul General in Ho Chi Minh City Melissa A. Brown | @tuoitrenews | https://tuoitre.vn/")
 
 > **INFO BOX**
 > **Organizer:** U.S. Consulate General in Ho Chi Minh City
