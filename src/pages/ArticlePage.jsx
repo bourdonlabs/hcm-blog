@@ -148,7 +148,7 @@ const processedContent = (article.content || '')
         <title>{article.title} — HCM Blog</title>
         <meta property="og:title" content={article.title} />
         <meta property="og:description" content={article.subtitle} />
-        <meta property="og:image" content={article.heroImage} />
+        <meta property="og:image" content={article.ogImage || article.heroImage} />
         <meta property="og:url" content={currentUrl} />
         <meta property="og:type" content="article" />
       </Helmet>

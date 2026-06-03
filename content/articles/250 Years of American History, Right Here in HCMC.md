@@ -9,6 +9,7 @@ date: "2026-06-02"
 category: "Expat Life"
 tags: ["cultural-events", "u-s-consulate", "education", "saigon-expats"]
 heroImage: "/images/SUB____12_.png"
+ogImage: "https://images2.thanhnien.vn/528068263637045248/2026/1/27/55063659193f50be65b91k-17695209792851353881931.jpg"
 readTime: "4 min read"
 slug: "us-consulate-250-years-american-history-summer-camp-hcmc"
 ---
