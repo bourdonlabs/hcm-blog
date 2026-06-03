@@ -108,11 +108,25 @@ export default function ArticlePage() {
     : `https://hcmblog.com/${article.slug}`
 
   // Pre-process Instagram shortcodes before markdown parsing
-  const processedContent = (article.content || '').replace(
-    /\{\{instagram:\s*(https?:\/\/www\.instagram\.com\/p\/[^\s}]+)\s*\}\}/g,
-    (_, url) =>
-      `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="background:#FFF;border:0;border-radius:3px;box-shadow:0 0 1px 0 rgba(0,0,0,.5),0 1px 10px 0 rgba(0,0,0,.15);margin:1px;max-width:540px;min-width:326px;padding:0;width:calc(100% - 2px);"></blockquote>`
-  )
+const processedContent = (article.content || '')
+    .replace(
+      /\{\{instagram:\s*(https?:\/\/www\.instagram\.com\/p\/[^\s}]+)\s*\}\}/g,
+      (_, url) =>
+        `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="background:#FFF;border:0;border-radius:3px;box-shadow:0 0 1px 0 rgba(0,0,0,.5),0 1px 10px 0 rgba(0,0,0,.15);margin:1px;max-width:540px;min-width:326px;padding:0;width:calc(100% - 2px);"></blockquote>`
+    )
+    .replace(
+      /!\[([^\]]*)\]\(([^)"]+?)(?:\s+"([^"]*)")?\)/g,
+      (_, alt, src, title) => {
+        if (!title) return `<figure><img src="${src}" alt="${alt}" style="max-width:100%;border-radius:0.5rem;margin:0;" /></figure>`
+        const parts = title.split('|').map(s => s.trim())
+        const caption = parts[0] || ''
+        const handle = parts[1] || ''
+        const link = parts[2] || ''
+        const handleHtml = handle && link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${handle}</a>` : handle || ''
+        const sep = caption && handleHtml ? ' | ' : ''
+        return `<figure><img src="${src}" alt="${alt}" style="max-width:100%;border-radius:0.5rem;margin:0;" /><figcaption>${caption}${sep}${handleHtml}</figcaption></figure>`
+      }
+    )
   const htmlContent = marked.parse(processedContent)
 
   // Load Instagram embed script once per article render
