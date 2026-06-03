@@ -27,7 +27,7 @@ The system is designed to cut down queues at immigration, which sounds great in 
 
 Tan Son Nhat handles over 100 million passengers annually, and the airport has been visibly bursting at the seams during peak season. This digital-first approach is Vietnam's attempt to modernize its arrival infrastructure without actually building a new terminal (that's still in the works, perpetually). For expats and regular visitors, it's just another step in the arrival dance—one you can't skip.
 
-![Pre-arrival declaration official notice](/images/arrival-declaration-notice.png "Official notice from Government website news | @hcmblog | https://www.facebook.com/profile.php?id=100093419216024")
+![Busy lines at Tan Son Nhat Airport](/images/arrival-declaration-notice.png "Busy lines at Tan Son Nhat Airport | @hcmblog | https://www.facebook.com/profile.php?id=100093419216024")
 
 ## What If You Mess It Up?
 
