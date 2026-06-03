@@ -11,6 +11,7 @@ tags: ["retirement", "expat-life", "visa-immigration", "saigon-living", "vietnam
 heroImage: "https://media.vov.vn/sites/default/files/styles/large/public/2022-07/av%20b2ap3_large_du-lich-tuoi-nghi-huu.jpg"
 readTime: "6 min read"
 slug: "retiring-vietnam-expat-challenges-saigon"
+featured: true
 ---
 
 You've scrolled through Instagram long enough. The beaches look perfect. A 200,000 VND (~$8 USD) coffee in a colonial villa sounds unbeatable. Your pension stretches three times further here than back home. So you're ready to retire to Vietnam, right?
