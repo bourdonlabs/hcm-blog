@@ -31,7 +31,7 @@ For locals fed up with air quality issues and environmental degradation, these p
 
 The real challenge? Actually enforcing compliance. Contractors will need incentives (or regulations with teeth) to deliver waste to official recycling facilities instead of dumping it illegally in Binh Chanh or wherever. That's where the plan gets murky—the details about penalties, subsidies, and monitoring are still vague.
 
-![Residents demolish homes and hand over land along Bui Dinh Tuy Street in Binh Thanh Ward, Ho Chi Minh City](/images/debris-17806465874171563488016-32-0-488-730-crop-1780646594040281393491.jpg "Residents demolish homes and hand over land along Bui Dinh Tuy Street in Binh Thanh Ward, Ho Chi Minh City for the Xuyen Tam Canal renovation project. Construction waste generated from such projects remains substantial but it has yet to be fully utilized as a recyclable resource. Photo: Tri Duc / Tuoi Tre")
+![Residents demolish homes and hand over land along Bui Dinh Tuy Street in Binh Thanh Ward, Ho Chi Minh City](/images/debris-17806465874171563488016-32-0-488-730-crop-1780646594040281393491.png "Residents demolish homes and hand over land along Bui Dinh Tuy Street in Binh Thanh Ward, Ho Chi Minh City for the Xuyen Tam Canal renovation project. Construction waste generated from such projects remains substantial but it has yet to be fully utilized as a recyclable resource. Photo: Tri Duc / Tuoi Tre")
 
 ## The Timeline and What Happens Next
 
